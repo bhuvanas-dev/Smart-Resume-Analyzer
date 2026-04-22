@@ -1,4 +1,4 @@
-# 📄 Smart Resume Analyzer
+#  Smart Resume Analyzer
 
 A simple AI-based web application that analyzes resumes and provides a score along with improvement suggestions.
 
@@ -25,7 +25,7 @@ resume-analyzer/
 * README.md
 * screenshots/
 
-## ▶️ How to Run
+##  How to Run
 
 1. Clone the repository
    git clone https://github.com/bhuvanas-dev/resume-analyzer.git
@@ -46,16 +46,15 @@ Home Page.png
 
 
 Result Page
+Upload and analysis P1.png
 
-
-
-## 💡 Future Improvements
+##  Future Improvements
 
 * Add job role-based analysis
 * Improve scoring logic
 * Enhance UI design
 
-## 👩‍💻 Author
+##  Author
 
 Bhuvana S
 
