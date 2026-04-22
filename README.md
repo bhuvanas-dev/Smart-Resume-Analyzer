@@ -42,9 +42,11 @@ resume-analyzer/
 ## 📸 Screenshots
 
 Home Page
+Home Page.png
 
 
 Result Page
+
 
 
 ## 💡 Future Improvements
